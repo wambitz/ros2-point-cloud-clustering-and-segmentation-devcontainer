@@ -1,8 +1,3 @@
 [submodule "ros2_kitti_publishers"]
 	path = ros2_kitti_publishers
 	url = https://github.com/umtclskn/ros2_kitti_publishers
-
-[submodule "turtlebot3_simulations"]
-	path = turtlebot3_simulations
-	url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
-	branch = humble-devel
